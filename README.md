@@ -1,2 +1,2 @@
 # test
-Welcome to Utah!
+Welcome to SLC!
